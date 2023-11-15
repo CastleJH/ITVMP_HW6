@@ -3,9 +3,7 @@
 - Edited by 20191104 Juhee Seong 
 - On 11.16, 2023
 
-**Below is the link of the recorded video.**
-
-https://www.youtube.com/watch?v=qd2_0xfszGk
+**Link of the recorded demo video:** https://www.youtube.com/watch?v=qd2_0xfszGk
 
 **How to Play**
 1. Press Spacebar to shoot.
