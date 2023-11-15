@@ -10,13 +10,13 @@
 2. Press Arrow Key to move the spacecraft.
 
 **Description of the Content**
-1. \img: This Directory contains every image files used in this project.
+1. /img: This Directory contains every image files used in this project.
     i.   000_laser.png: These are bullet images.
     ii.  disintegrate000.png: These are explosion animation frames.
     iii. galaxy.png: This is the background image.
     iv.  P_000.png: These are planet(meteor) images.
     v.   spacecraft.png: This is the spacecraft image.
-2. \snd: This Directory contains every audio files used in this project.
+2. /snd: This Directory contains every audio files used in this project.
     i.   bgm.mp3: This is the background music.
     ii.  explosion000.wav: These are explosion sound effects.
     iii. shooting.wav: This is the bullet shooting sound effect.
